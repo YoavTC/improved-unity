@@ -3,8 +3,8 @@
 Reusable, self‑contained components that build on existing Unity components.
 
 ## Table of Contents
-- [AudioSourcerer](#audiosourcerer🔉)
-<!-- - [BetterButton](#betterbutton🛑) -->
+- [AudioSourcerer](#audiosourcerer)
+<!-- - [BetterButton](#betterbutton) -->
 
 
 ## AudioSourcerer🔉
