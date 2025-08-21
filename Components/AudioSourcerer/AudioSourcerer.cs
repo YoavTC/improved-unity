@@ -1,5 +1,8 @@
-﻿using DG.Tweening;
-using UnityEngine;
+﻿using UnityEngine;
+
+#if DOTWEEN
+using DG.Tweening;
+#endif
 
 [AddComponentMenu("Audio/Audio Sourcerer")]
 [RequireComponent(typeof(Transform))]
